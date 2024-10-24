@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codexplorer-fish
 - 👀 I’m interested in cod-ing (the fish)
-- 🌱 I’m currently learning snakes
+- 🌱 I’m currently working on an audio visualizer
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: fish
 
